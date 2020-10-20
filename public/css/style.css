@@ -1265,7 +1265,7 @@ background: #2f9976;
 }
 
 /* Social Icons Start */
-.icon-social {
+.icon-social { 
 fill: rgba(255, 255, 255, 0.5);
 }
 
@@ -1334,4 +1334,3 @@ background-size: 20px 20px;
 .project-image:hover {
   filter: grayscale(0%);
 }
- 

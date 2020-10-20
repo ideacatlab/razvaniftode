@@ -15,7 +15,7 @@
   </nav>
   <div class="ideacat-footer">
       <ul class="ul-social-icon">
-        <li class="li-social-icon"><a href="{{url('https://www.behance.net/RazvanIftode')}}"><svg class="icon-behance icon-social" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        <li class="li-social-icon"><a href="{{url('https://www.behance.net/RazvanIftode')}}"> <svg class="icon-behance icon-social" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
         	 width="97.75px" height="97.75px" viewBox="0 0 97.75 97.75" style="enable-background:new 0 0 97.75 97.75;" xml:space="preserve"
         	>
         <g>
