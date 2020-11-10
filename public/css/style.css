@@ -1592,3 +1592,7 @@ img.hover-shadow {
 .project-name-preview {
   z-index: 996;
 }
+
+.modal {
+  overflow: hidden;
+}
