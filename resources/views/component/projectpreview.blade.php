@@ -55,7 +55,7 @@
           </a>
         </div>
       </div>
-
+ 
       <div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
         <div class="project">
           <img onclick="location.href = '{{url('/FP-M01')}}'" class="project project-image" src="{{url('/images/FP-M01/fpmaster.jpg')}}" alt="">
