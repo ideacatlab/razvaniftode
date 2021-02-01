@@ -1596,3 +1596,9 @@ img.hover-shadow {
 .modal {
   overflow: hidden;
 }
+
+@media only screen and (max-widht: 790px) {
+  .modal {
+    display: none !important;
+  }
+}
